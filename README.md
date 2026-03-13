@@ -62,7 +62,7 @@ clawhub install cli-design-framework
 clawhub install cli-design-framework --version 1.0.0
 ```
 
-#### 方式二：通过 `npx skills add` 从仓库安装
+#### 方式二：通过 `npx skills add` 安装
 
 如果这份 skill 已经放在一个公开仓库里，可以直接从仓库安装：
 
@@ -76,7 +76,7 @@ npx skills add wangnov/cli-design-framework
 兼容的 agent 包括：
 
 - Claude Code
-- Codex / ChatGPT Codex
+- Codex
 - OpenClaw
 - Other agents supported by the `skills` CLI ecosystem
 
@@ -333,7 +333,7 @@ If the repository contains multiple skills, use `--list` first to inspect what i
 Compatible agents include:
 
 - Claude Code
-- Codex / ChatGPT Codex
+- Codex
 - OpenClaw
 - Other agents supported by the `skills` CLI ecosystem
 
