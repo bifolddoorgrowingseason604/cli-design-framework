@@ -1,0 +1,5 @@
+docs/
+e2e-test/
+.claude/
+.codex/
+.DS_Store
