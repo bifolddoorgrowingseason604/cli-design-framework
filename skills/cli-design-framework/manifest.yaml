@@ -1,7 +1,7 @@
 slug: cli-design-framework
 name: CLI Design Framework
 tagline: Classify first. Design second.
-version: 1.0.0
+version: 1.0.1
 summary: Classification-first framework for designing and reviewing CLIs.
 description: Use when designing a new CLI, reviewing an existing CLI, or resolving uncertainty about a CLI's role, user type, interaction form, statefulness, risk profile, or human-vs-machine surfaces.
 license: MIT-0
