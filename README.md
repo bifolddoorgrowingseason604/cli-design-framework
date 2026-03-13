@@ -67,8 +67,8 @@ clawhub install cli-design-framework --version 1.0.0
 如果这份 skill 已经放在一个公开仓库里，可以直接从仓库安装：
 
 ```bash
-npx skills add wangnov/skill-design-framework --list
-npx skills add wangnov/skill-design-framework
+npx skills add wangnov/cli-design-framework --list
+npx skills add wangnov/cli-design-framework
 ```
 
 如果仓库里包含多个 skill，建议先用 `--list` 看可安装项，再继续安装。
@@ -324,8 +324,8 @@ clawhub install cli-design-framework --version 1.0.0
 If this skill is published in a public repository, install it from the repository directly:
 
 ```bash
-npx skills add wangnov/skill-design-framework --list
-npx skills add wangnov/skill-design-framework
+npx skills add wangnov/cli-design-framework --list
+npx skills add wangnov/cli-design-framework
 ```
 
 If the repository contains multiple skills, use `--list` first to inspect what is available.
